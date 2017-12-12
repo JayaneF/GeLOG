@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formulas>
+    <formula>
+        <formula>PvQ^~R</formula>
+        <complexidadeTabelaVerdade>2</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+</formulas>

@@ -1,0 +1,13 @@
+Lista de Exercício1 - Fórmula Bem Formada
+ 
+1. Verifique se as fórmulas seguintes são bem formadas: 
+ 
+->QP->
+->Q->P
+Q->->P
+P->->Q
+->P->Q
+Q->P->
+P->Q
+P->Q->
+Q->P

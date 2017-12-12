@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formulas>
+    <formula>
+        <formula>R^P-&gt;~Q</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>(R-&gt;~P)</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>R-&gt;Pv~T</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>Q^TvR^~P</formula>
+        <complexidadeTabelaVerdade>3</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>PvQ^~R</formula>
+        <complexidadeTabelaVerdade>2</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>P^(Rv~T)</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>(R-&gt;QvP)</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>Rv~P</formula>
+        <complexidadeTabelaVerdade>1</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>(P^R)</formula>
+        <complexidadeTabelaVerdade>1</complexidadeTabelaVerdade>
+        <complexidadeProposicao>1</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>Q^P-&gt;~R</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>R^~P</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>1</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>P^T^~R</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>(P-&gt;T)^R</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>2</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>(P^RvT)</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+    <formula>
+        <formula>(P^TvR)</formula>
+        <complexidadeTabelaVerdade>não definida</complexidadeTabelaVerdade>
+        <complexidadeProposicao>não definida</complexidadeProposicao>
+    </formula>
+</formulas>

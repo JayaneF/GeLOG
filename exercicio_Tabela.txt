@@ -1,0 +1,6 @@
+Lista de Exercício2 - Tabela Verdade
+ 
+1. Desenvolva a tabela verdade das fórmulas e classifique-as. 
+ 
+Q->P
+P->Q

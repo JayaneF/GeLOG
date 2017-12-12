@@ -1,0 +1,6 @@
+Lista de Exercício3 - Representação das Fórmulas
+ 
+1. Crie frases que representem as fórmulas abaixo:  
+ 
+Q->P
+P->Q
